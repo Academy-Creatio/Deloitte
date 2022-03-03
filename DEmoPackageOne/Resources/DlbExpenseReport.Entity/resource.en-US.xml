@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expense Report" />
+			<Item Name="Columns.DlbContact.Caption" Value="Contact" />
+			<Item Name="Columns.DlbExpenseReportStatus.Caption" Value="Status" />
+			<Item Name="Columns.DlbName.Caption" Value="Name" />
+			<Item Name="Columns.DlbNotes.Caption" Value="Notes" />
+			<Item Name="Columns.DlbReportDate.Caption" Value="Report Date" />
+		</Items>
+	</Group>
+</Resources>

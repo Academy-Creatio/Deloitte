@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3ccbd42c-0a75-40b7-8162-9bceb14b94e4",
+    "Name": "DlbExpenseReportVisa",
+    "ModifiedOnUtc": "\/Date(1646135777000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approvals in section Expense Report",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f5c8df65-b902-4c00-8965-204267765ddc",
+    "Name": "DlbProcess_ConvertLine",
+    "ModifiedOnUtc": "\/Date(1646220843000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Convert Line"
+  }
+}

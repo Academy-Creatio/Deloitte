@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApprovalSchemaUId.Caption" Value="Об'єкт візи" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverEmailTemplate.Caption" Value="Шаблон листа особи що візує" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverType.Caption" Value="Тип особи що візує" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.AuthorEmailTemplate.Caption" Value="Шаблон листа заявника" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.CurrentApprovalId.Caption" Value="Ідентифікатор поточного запису візи" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.EmployeeId.Caption" Value="Співробітник" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IgnoreEmailErrors.Caption" Value="Ігнорувати помилки відправки пошти" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsAllowedToDelegate.Caption" Value="Можна делегувати візування" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsRequiredDigitalSignature.Caption" Value="Вимагає ЕЦП" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsSendEmailToApprovers.Caption" Value="Відправляти лист тим хто візує" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsSendEmailToAuthor.Caption" Value="Надіслати email заявнику" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.MasterColumnUId.Caption" Value="Колонка розділу" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Purpose.Caption" Value="Мета візування" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.Caption" Value="Ідентифікатор запису" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Результуючий параметр" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RoleId.Caption" Value="Роль" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.SectionId.Caption" Value="Розділ" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.AddRights.Caption" Value="Список прав на додавання" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Об'єкт відповідає умовам" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Список прав на видалення" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.AddRights.Caption" Value="Список прав на додавання" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Об'єкт відповідає умовам" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Список прав на видалення" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.AddRights.Caption" Value="Список прав на додавання" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Об'єкт відповідає умовам" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Список прав на видалення" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+		</Items>
+	</Group>
+</Resources>

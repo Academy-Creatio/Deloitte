@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.DlbName.Caption" Value="Название" />
+			<Item Name="Columns.DlbNotes.Caption" Value="Заметки" />
+		</Items>
+	</Group>
+</Resources>

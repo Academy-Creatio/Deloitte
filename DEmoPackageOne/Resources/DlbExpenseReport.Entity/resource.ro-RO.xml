@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.DlbName.Caption" Value="Nume" />
+			<Item Name="Columns.DlbNotes.Caption" Value="Notite" />
+			<Item Name="Columns.DlbReportDate.Caption" Value="Data raportului" />
+		</Items>
+	</Group>
+</Resources>

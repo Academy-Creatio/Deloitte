@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6fe2bc21-20e3-4469-9fe3-31744e4a4f67",
+    "Name": "DlbExpenseReport1Page",
+    "ModifiedOnUtc": "\/Date(1646135771000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Expense Report\"",
+    "DependsOn": []
+  }
+}

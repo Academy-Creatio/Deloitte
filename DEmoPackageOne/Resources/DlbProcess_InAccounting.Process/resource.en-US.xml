@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="false" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="true" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="set Result to 1" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="set result to 0" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="log Expense Report" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Expense Report#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Expense Report" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Read lines" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="async Start" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="handle 1 line" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CompletedIterationsCount.Caption" Value="Number of completed instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Caption" Value="Input record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.DisplayValue" Value="[#Read lines.Collection of records#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.fxRate.Caption" Value="FxRate" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.fxRate.DisplayValue" Value="Convert.ToDecimal([#FXCADEUR_DATE.FXEURCAD#])" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.LineId.Caption" Value="LineId" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.LineId.DisplayValue" Value="[#Read lines.Collection of records:Id#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.OutputRecordCollection.Caption" Value="Output record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TerminatedIterationsCount.Caption" Value="Number of terminated instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TotalIterationsCount.Caption" Value="Total number of instances" />
+			<Item Name="BaseElements.WebService1.Caption" Value="FXCADEUR_DATE" />
+			<Item Name="BaseElements.WebService1.Parameters.DlbEnddate_In.Caption" Value="End_date" />
+			<Item Name="BaseElements.WebService1.Parameters.DlbEnddate_In.DisplayValue" Value="2022-02-02" />
+			<Item Name="BaseElements.WebService1.Parameters.DlbEnddate_In.Value" Value="2022-02-02" />
+			<Item Name="BaseElements.WebService1.Parameters.Dlb_FXEURCAD_Out.Caption" Value="FXEURCAD" />
+			<Item Name="BaseElements.WebService1.Parameters.DlbStartdate_In.Caption" Value="Start_date" />
+			<Item Name="BaseElements.WebService1.Parameters.DlbStartdate_In.DisplayValue" Value="2022-02-02" />
+			<Item Name="BaseElements.WebService1.Parameters.DlbStartdate_In.Value" Value="2022-02-02" />
+			<Item Name="BaseElements.WebService1.Parameters.RequestBody.Caption" Value="Request body" />
+			<Item Name="BaseElements.WebService1.Parameters.Response.Caption" Value="Response body" />
+			<Item Name="BaseElements.WebService1.Parameters.StatusCode.Caption" Value="Http status code" />
+			<Item Name="BaseElements.WebService1.Parameters.Success.Caption" Value="Success" />
+			<Item Name="Caption" Value="in Accounting" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ExpenseReportId.Caption" Value="Expense Report" />
+			<Item Name="Parameters.result.Caption" Value="Result" />
+		</Items>
+	</Group>
+</Resources>

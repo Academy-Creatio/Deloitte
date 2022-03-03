@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApprovalSchemaUId.Caption" Value="Approval object" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverEmailTemplate.Caption" Value="Email template for the approver" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ApproverType.Caption" Value="Approver type" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.AuthorEmailTemplate.Caption" Value="Email template for the author" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.CurrentApprovalId.Caption" Value="Current Approval Id" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.EmployeeId.Caption" Value="Angajat" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Obiect" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IgnoreEmailErrors.Caption" Value="Ignore email sending errors" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IgnoreEmailErrors.DisplayValue" Value="adevarat" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsAllowedToDelegate.Caption" Value="Approval may be delegated" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsRequiredDigitalSignature.Caption" Value="Digital signature required" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsSendEmailToApprovers.Caption" Value="Send email to the approvers" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.IsSendEmailToAuthor.Caption" Value="Send email to the author" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.MasterColumnUId.Caption" Value="Master column" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.Purpose.Caption" Value="Scop aprobare" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RecordId.Caption" Value="Id-ul inregistrarii" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Result parameter" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.RoleId.Caption" Value="Rol" />
+			<Item Name="Stages.Stage2.Elements.DcmElement3.ProcessFlowElement.Parameters.SectionId.Caption" Value="Sectiune" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.AddRights.Caption" Value="Lista drepturi de adaugat" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Obiectul respecta conditia" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Lista drepturi de stergere" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Obiect" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.AddRights.Caption" Value="Lista drepturi de adaugat" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Obiectul respecta conditia" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Lista drepturi de stergere" />
+			<Item Name="Stages.Stage3.Elements.DcmElement1.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Obiect" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.AddRights.Caption" Value="Lista drepturi de adaugat" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Obiectul respecta conditia" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="Lista drepturi de stergere" />
+			<Item Name="Stages.Stage4.Elements.DcmElement2.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Obiect" />
+		</Items>
+	</Group>
+</Resources>

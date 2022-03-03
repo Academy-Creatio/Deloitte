@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca9578f3-6757-44d4-a425-39048a235c29",
+    "Name": "DlbSchema991737a1Detail",
+    "ModifiedOnUtc": "\/Date(1646133656000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Expense Report Line\"",
+    "DependsOn": []
+  }
+}

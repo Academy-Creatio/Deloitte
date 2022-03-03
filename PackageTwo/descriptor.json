@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "24d07191-e684-ca82-7446-2c89a950b913",
+    "Name": "PackageTwo",
+    "ModifiedOnUtc": "\/Date(1646220658000)\/",
+    "Maintainer": "Customer",
+    "Description": "PackageTwo Description",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

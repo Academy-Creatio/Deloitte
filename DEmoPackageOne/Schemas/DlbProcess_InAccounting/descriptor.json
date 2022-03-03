@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8242fea0-695e-4e48-8d5a-96a444a5707f",
+    "Name": "DlbProcess_InAccounting",
+    "ModifiedOnUtc": "\/Date(1646211281000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "in Accounting",
+    "DependsOn": []
+  }
+}

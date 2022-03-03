@@ -1,0 +1,78 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "b94066ee-ef7e-469a-acad-25da2cb40a58",
+      "A2": "DlbService_7718991",
+      "A5": "1f06bdcc-f0b4-4a8b-a9d9-9ead1a400cfb",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+      "B8": "7.18.5.1500",
+      "IQ1": "https://www.bankofcanada.ca/valet/observations",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "9630ec9b-bd29-47dc-ac3b-a1167ab25900",
+          "A2": "DlbMethod1",
+          "A3": "b94066ee-ef7e-469a-acad-25da2cb40a58",
+          "A4": "b94066ee-ef7e-469a-acad-25da2cb40a58",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "549b471d-ba53-4524-931d-9d4a47025b7f",
+                "A2": "DlbStartdate",
+                "IU1": "start_date",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "efd5bec0-9e69-49aa-93f1-3e34b1905957",
+                "A2": "DlbEnddate",
+                "IU1": "end_date",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/FXEURCAD"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "91b10652-7450-400a-89bb-1294aa2a911a",
+                "A2": "Dlb_FXEURCAD",
+                "IU1": "$.observations[0].FXEURCAD.v",
+                "IU2": "Text",
+                "IU7": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null",
+                  "IV2": 1
+                },
+                "IU6": []
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d5b74e6-9281-4003-a2fe-14b17ac6bde1",
+    "Name": "DlbExpenseReportInTag",
+    "ModifiedOnUtc": "\/Date(1646129404000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Expense Report section record tag",
+    "DependsOn": []
+  }
+}

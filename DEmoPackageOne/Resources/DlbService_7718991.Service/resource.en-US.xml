@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="FXCADEUR_DATE" />
+			<Item Name="ServiceMethods.DlbMethod1.Caption" Value="Fx Rate" />
+			<Item Name="ServiceMethods.DlbMethod1.Request.Parameters.DlbEnddate.Caption" Value="End_date" />
+			<Item Name="ServiceMethods.DlbMethod1.Request.Parameters.DlbStartdate.Caption" Value="Start_date" />
+			<Item Name="ServiceMethods.DlbMethod1.Response.Parameters.Dlb_FXEURCAD.Caption" Value="FXEURCAD" />
+		</Items>
+	</Group>
+</Resources>

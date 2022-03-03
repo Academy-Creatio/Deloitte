@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b94066ee-ef7e-469a-acad-25da2cb40a58",
+    "Name": "DlbService_7718991",
+    "ModifiedOnUtc": "\/Date(1646210998000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "FXCADEUR_DATE",
+    "DependsOn": []
+  }
+}
