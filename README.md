@@ -28,7 +28,6 @@
 ## SESSION VIDEO RECODING
 |Day|Download Link|
 |:--:|:--:|
-|1|[Video][d1v]|
 |2|[Video][d2v]|
 <!-- 
 |3|[Video][d3v]|
@@ -49,7 +48,6 @@ Thank you for having taken development training with me. In order to make this c
 
 
 <!-- Named Links -->
-[d1v]: 
 [d2v]: https://creatio-global.zoom.us/rec/share/CIGNhIVla6FsjLJlnI6zCDCqbVy0gfyWDyoGdrROZZ9KIoO6cJ0EH3t37cHoGcEP.CtU84ULHkUVXxhv9
 <!-- 
 [d3v]: 
