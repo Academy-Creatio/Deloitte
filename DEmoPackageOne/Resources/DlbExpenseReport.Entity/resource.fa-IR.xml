@@ -2,8 +2,7 @@
 <Resources Culture="fa-IR">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="نام" />
-			<Item Name="Columns.DlbNotes.Caption" Value="یادداشت ها" />
+			<Item Name="EventsProcessSchema.Caption" Value="هدف پایه" />
 		</Items>
 	</Group>
 </Resources>

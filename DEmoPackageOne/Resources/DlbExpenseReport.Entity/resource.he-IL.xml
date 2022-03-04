@@ -2,8 +2,7 @@
 <Resources Culture="he-IL">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="שם" />
-			<Item Name="Columns.DlbNotes.Caption" Value="הערות" />
+			<Item Name="EventsProcessSchema.Caption" Value="אובייקט בסיס" />
 		</Items>
 	</Group>
 </Resources>

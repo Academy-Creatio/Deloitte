@@ -7,14 +7,153 @@
 = MetaData.Schema.EG1.A2 "DlbExpenseReportEventsProcess"
 = MetaData.Schema.EG1.A5 "1f06bdcc-f0b4-4a8b-a9d9-9ead1a400cfb"
 = MetaData.Schema.EG1.B1 []
-= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B3 {
+  "UId": "b034865d-bd47-48ee-a377-073a99b10cbc",
+  "A2": "global::Common.Logging",
+  "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A5": "1f06bdcc-f0b4-4a8b-a9d9-9ead1a400cfb",
+  "GF1": "null"
+}
+- MetaData.Schema.EG1.B3.["fb7b81ba-7c3c-45a5-ae9e-c6c03dceb812"]
+- MetaData.Schema.EG1.B3.["cde525cf-d220-4d2a-b963-e55254c639fc"]
+- MetaData.Schema.EG1.B3.["5c9c82c6-ba6d-4a57-9a14-87fe8faa4ebb"]
+- MetaData.Schema.EG1.B3.["7821de68-c82b-4917-a6cd-add2adfbe400"]
+- MetaData.Schema.EG1.B3.["d67de76f-9cbc-4bfc-babb-6f65cb89b973"]
+- MetaData.Schema.EG1.B3.["74160d3b-65e3-4694-b554-089f2d980e54"]
+- MetaData.Schema.EG1.B3.["e401300a-9f16-40c2-9788-cf310ae9d1c5"]
+- MetaData.Schema.EG1.B3.["d5bb3512-71e0-482a-9c7e-16bf22c586b7"]
+- MetaData.Schema.EG1.B3.["b261d1c9-cc98-44e8-aabd-7806d1dc26ed"]
+- MetaData.Schema.EG1.B3.["c261d1c9-cc98-44e8-aabd-7806d1dc26ec"]
+- MetaData.Schema.EG1.B3.["aca2294b-e209-4c40-9400-0d59d9ecd1ea"]
+- MetaData.Schema.EG1.B3.["5410f06b-83f8-43fa-bc49-82a2dd508d3c"]
+~ MetaData.Schema.EG1.B3 ["b034865d-bd47-48ee-a377-073a99b10cbc"]
+= MetaData.Schema.EG1.B6 "1c77c1cd-ab62-0e38-7143-a9813ab206a6"
 + MetaData.Schema.EG1.B8 "7.18.5.1500"
 = MetaData.Schema.EG1.FJ1 []
 = MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
 = MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
-= MetaData.Schema.EG1.BK3 []
-= MetaData.Schema.EG1.BK4 []
-+ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.EG1.BK3 {
+  "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+  "UId": "cf02dded-8ab2-4ee5-b2fe-b10e88ff1645",
+  "A2": "LaneSet_cf02dded8ab24ee5b2feb10e88ff1645",
+  "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A5": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+  "BL3": "0;5",
+  "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+  "BL8": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "BL9": "EntitySchemaManager",
+  "BM1": 0,
+  "BM4": [
+    {
+      "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+      "UId": "db9ae910-44cc-4e8e-99c3-52fa013e7f76",
+      "A2": "Lane_db9ae91044cc4e8e99c352fa013e7f76",
+      "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "A5": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+      "IL2": "cf02dded-8ab2-4ee5-b2fe-b10e88ff1645",
+      "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+      "BL8": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "BL9": "EntitySchemaManager",
+      "CD1": [],
+      "CD2": [],
+      "CD4": "cf02dded-8ab2-4ee5-b2fe-b10e88ff1645",
+      "CD7": []
+    }
+  ]
+}
+- MetaData.Schema.EG1.BK3.["619c2403-5046-4076-b4ec-5421200d9785"]
+~ MetaData.Schema.EG1.BK3 ["cf02dded-8ab2-4ee5-b2fe-b10e88ff1645"]
++ MetaData.Schema.EG1.BK4 {
+  "BL1": "Terrasoft.Core.Process.ProcessSchemaEventSubProcess",
+  "UId": "88c372f6-af78-4cea-8e32-66affe3fffb6",
+  "A2": "EventSubProcess1_88c372f6af784cea8e3266affe3fffb6",
+  "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A5": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+  "IL2": "db9ae910-44cc-4e8e-99c3-52fa013e7f76",
+  "BL3": "174;150",
+  "BL7": "0824af03-1340-47a3-8787-ef542f566992",
+  "BL8": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "BL9": "EntitySchemaManager",
+  "BN1": true,
+  "BN2": "703;300",
+  "BP2": [],
+  "CK1": true,
+  "CK2": [
+    {
+      "BL1": "Terrasoft.Core.Process.ProcessSchemaStartMessageEvent",
+      "UId": "dbc25324-b6b6-4d51-8a4d-466d35e9bf7e",
+      "A2": "StartMessage1_dbc25324b6b64d518a4d466d35e9bf7e",
+      "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "A5": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+      "IL2": "88c372f6-af78-4cea-8e32-66affe3fffb6",
+      "BL3": "20;135",
+      "BL7": "429178f5-d44a-40d6-8b74-e72cad04ee73",
+      "BL8": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "BL9": "EntitySchemaManager",
+      "BN2": "31;31",
+      "FC1": [],
+      "ED1": false,
+      "CJ1": "DlbExpenseReportSaving"
+    },
+    {
+      "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+      "UId": "5e769c52-b449-4e78-93ce-d485eddb5c94",
+      "A2": "ScriptTask_OnSaving",
+      "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "A5": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+      "IL2": "88c372f6-af78-4cea-8e32-66affe3fffb6",
+      "BL3": "207;123",
+      "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+      "BL8": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+      "BL9": "EntitySchemaManager",
+      "BN2": "69;55",
+      "BP2": [],
+      "CL2": "FFFFFFFF",
+      "CH1": "\nvar logger = LogManager.GetLogger(\"Deloitte\");\nstring name = Entity.GetTypedColumnValue<string>(\"DlbName\");\nlogger.Info($\"Name in SubProcess: {name}\");\nreturn true;",
+      "CH2": true
+    }
+  ],
+  "CK3": []
+}
++ MetaData.Schema.EG1.BK4 {
+  "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+  "UId": "4851a6fe-b68a-42cf-8293-7c1de87b5f44",
+  "A2": "SequenceFlow1_4851a6feb68a42cf82937c1de87b5f44",
+  "A3": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A4": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "A5": "1c77c1cd-ab62-0e38-7143-a9813ab206a6",
+  "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+  "BL8": "e94a2322-886b-44bd-b94f-064b21b9b6c1",
+  "BL9": "EntitySchemaManager",
+  "CI1": "dbc25324-b6b6-4d51-8a4d-466d35e9bf7e",
+  "CI2": "5e769c52-b449-4e78-93ce-d485eddb5c94",
+  "CI3": "null",
+  "CI5": "FF939598",
+  "CI6": 1,
+  "CI11": "225;301",
+  "CI12": "381;301"
+}
+- MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"]
+- MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"]
+- MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"]
+- MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"]
+- MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"]
+- MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"]
+- MetaData.Schema.EG1.BK4.["db2f2393-5d29-47cf-a756-8e26392d342f"]
+- MetaData.Schema.EG1.BK4.["60ca0a5b-c2b5-4ee3-acd8-f25e9e91ec44"]
+- MetaData.Schema.EG1.BK4.["7feb971a-3b75-486d-bb0b-92352f82a420"]
+- MetaData.Schema.EG1.BK4.["2f317c63-b9de-4594-befc-1e8413c1ddfe"]
+- MetaData.Schema.EG1.BK4.["8a5a0739-a2a3-4581-9476-2909c2e98c39"]
+- MetaData.Schema.EG1.BK4.["a53d2c03-849b-47b6-9032-066c63d26056"]
+- MetaData.Schema.EG1.BK4.["76ca325d-c9c6-4992-b7d6-11b890506ae3"]
+~ MetaData.Schema.EG1.BK4 ["88c372f6-af78-4cea-8e32-66affe3fffb6","4851a6fe-b68a-42cf-8293-7c1de87b5f44"]
++ MetaData.Schema.EG1.Labels [{"BL1":"Terrasoft.Core.Process.ProcessSchemaLabel","UId":"1c4882f2-93f3-0611-1b96-36776f9c48a4","A2":"StartMessage1_dbc25324b6b64d518a4d466d35e9bf7e_label1_1c4882f293f306111b9636776f9c48a4","A3":"e94a2322-886b-44bd-b94f-064b21b9b6c1","A4":"e94a2322-886b-44bd-b94f-064b21b9b6c1","ParentUId":"dbc25324-b6b6-4d51-8a4d-466d35e9bf7e","X":-2}]
 + MetaData.Schema.D17 true
 = MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
 + MetaData.Schema.D29 "null"
@@ -91,8 +230,6 @@
 }
 ~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","bc8fea75-fe32-4c6c-8a29-eaa56caccf5a","d81ddb6e-fe72-4f99-afdc-b6add9e399c3","62b2cc0f-82c5-4fd3-8d0f-b162d4001cd4","3ee39d81-f1ff-4bc6-8b18-78038612c7a8","40e7bb8f-fe20-4723-9ccc-3718b03a5873"]
 = MetaData.Schema.D20.A2 "DlbExpenseReportEvents"
-- MetaData.Schema.EG1.B6
-- MetaData.Schema.EG1.BK29
 - MetaData.Schema.EG1.BK30
 - MetaData.Schema.D1
 - MetaData.Schema.D20.A5
@@ -101,7 +238,6 @@
 - MetaData.Schema.D20.FA6
 - MetaData.Schema.D20.FA7
 - MetaData.Schema.D20.FA11
-- MetaData.Schema.D20.FA12
 - MetaData.Schema.D20.FA15
 + MetaData.Schema.B7 false
 + MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false

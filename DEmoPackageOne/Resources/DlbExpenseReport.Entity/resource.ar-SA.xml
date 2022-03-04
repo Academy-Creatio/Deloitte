@@ -2,8 +2,7 @@
 <Resources Culture="ar-SA">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="الاسم" />
-			<Item Name="Columns.DlbNotes.Caption" Value="الملاحظات" />
+			<Item Name="EventsProcessSchema.Caption" Value="الكائن الأساسي" />
 		</Items>
 	</Group>
 </Resources>

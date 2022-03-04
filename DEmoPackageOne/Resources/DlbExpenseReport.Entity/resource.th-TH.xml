@@ -2,8 +2,7 @@
 <Resources Culture="th-TH">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="ชื่อ" />
-			<Item Name="Columns.DlbNotes.Caption" Value="บันทึกย่อ" />
+			<Item Name="EventsProcessSchema.Caption" Value="ออบเจ็กต์ฐาน" />
 		</Items>
 	</Group>
 </Resources>

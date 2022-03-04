@@ -12,6 +12,8 @@
 - [File System Mode][fsmode] - WIKI how to enable development in filesystem mode
 - [Custom Logging][nlog] - How to enable custom logging
 - [FTP] - Download Creatio
+	- [How to Install Creatio][a-installingCreatio]
+	- [Redis][downloadRedis] for windows
 - Develop a [custom web service][custom_web_service]
 - Events
 	- [Entity-Event-Layer][entityEventLayer] - Objects business logic
@@ -49,9 +51,9 @@ Thank you for having taken development training with me. In order to make this c
 
 <!-- Named Links -->
 [d2v]: https://creatio-global.zoom.us/rec/share/CIGNhIVla6FsjLJlnI6zCDCqbVy0gfyWDyoGdrROZZ9KIoO6cJ0EH3t37cHoGcEP.CtU84ULHkUVXxhv9
+[d3v]: https://creatio-global.zoom.us/rec/share/h7WKkiy0pCRGzu0Lszb5qXrq8ZZFft0fQ5m9423mqJKzakWgXt-qhuG4OSQTVYRQ.JDycj8HCstfsTT1-
+[d4v]: https://creatio-global.zoom.us/rec/share/l8J7QwCY8j-EnpqoOeL_1DA-gQzN9FyLDlZ9NFGMYQHTPdFqRPvvUqpnN-ntDZg.uZwPJm5N3DQg33F7
 <!-- 
-[d3v]: 
-[d4v]:  
 -->
 
 <!-- Links -->
@@ -72,3 +74,6 @@ Thank you for having taken development training with me. In order to make this c
 
 [cpe]:https://www.youtube.com/watch?v=qYzMWkCj414&t=4139s
 [busines process element]: https://academy.creatio.com/docs/7-17/developer/front-end_development/creatio_development_cases/business_processes/creating_custom__%5Buser_task%5D_process_element
+
+[a-installingCreatio]: https://academy.creatio.com/docs/user/on_site_deployment/general_deployment_procedure/general_creatio_deployment_procedure
+[downloadRedis]: https://creatiocom-my.sharepoint.com/:u:/g/personal/k_krylov_creatio_com/EQKLalSpYPdDjMQlR47RxSMBsq6VT5qX4PNsWA7nTFfcrg?e=I1XOGO

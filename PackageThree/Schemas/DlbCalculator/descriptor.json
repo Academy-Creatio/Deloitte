@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e9904c7e-88f8-40fe-a867-d1fdcd64a7ba",
+    "Name": "DlbCalculator",
+    "ModifiedOnUtc": "\/Date(1646298141000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "My Calculator",
+    "DependsOn": []
+  }
+}

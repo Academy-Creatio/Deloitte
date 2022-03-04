@@ -5,6 +5,7 @@
 			<Item Name="Columns.DlbName.Caption" Value="Nume" />
 			<Item Name="Columns.DlbNotes.Caption" Value="Notite" />
 			<Item Name="Columns.DlbReportDate.Caption" Value="Data raportului" />
+			<Item Name="EventsProcessSchema.Caption" Value="Obiect de baza" />
 		</Items>
 	</Group>
 </Resources>

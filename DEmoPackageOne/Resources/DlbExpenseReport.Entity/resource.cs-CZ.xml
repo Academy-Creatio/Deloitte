@@ -2,8 +2,7 @@
 <Resources Culture="cs-CZ">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="Název" />
-			<Item Name="Columns.DlbNotes.Caption" Value="Poznámky" />
+			<Item Name="EventsProcessSchema.Caption" Value="Základní objekt" />
 		</Items>
 	</Group>
 </Resources>

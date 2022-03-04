@@ -2,8 +2,7 @@
 <Resources Culture="sv-SE">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="Namn" />
-			<Item Name="Columns.DlbNotes.Caption" Value="Anteckningar" />
+			<Item Name="EventsProcessSchema.Caption" Value="Basobjekt" />
 		</Items>
 	</Group>
 </Resources>

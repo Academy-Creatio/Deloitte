@@ -8,6 +8,11 @@
 			<Item Name="Columns.DlbName.Caption" Value="Name" />
 			<Item Name="Columns.DlbNotes.Caption" Value="Notes" />
 			<Item Name="Columns.DlbReportDate.Caption" Value="Report Date" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask_OnSaving.Caption" Value="on Saving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage1_dbc25324b6b64d518a4d466d35e9bf7e.Caption" Value="Saving" />
+			<Item Name="EventsProcessSchema.Caption" Value="Expense Report" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_cf02dded8ab24ee5b2feb10e88ff1645.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_cf02dded8ab24ee5b2feb10e88ff1645.Lanes.Lane_db9ae91044cc4e8e99c352fa013e7f76.Caption" Value="Lane 1" />
 		</Items>
 	</Group>
 </Resources>

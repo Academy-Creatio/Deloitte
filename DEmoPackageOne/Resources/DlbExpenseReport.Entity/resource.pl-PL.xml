@@ -2,8 +2,7 @@
 <Resources Culture="pl-PL">
 	<Group Type="String">
 		<Items>
-			<Item Name="Columns.DlbName.Caption" Value="Nazwa" />
-			<Item Name="Columns.DlbNotes.Caption" Value="Notatki" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
 		</Items>
 	</Group>
 </Resources>

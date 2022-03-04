@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "d66e9c39-a0da-4bca-a5b3-d1c55ac144e6",
+    "PackageVersion": "7.8.0",
+    "Name": "PackageThree",
+    "ModifiedOnUtc": "\/Date(1646295133000)\/",
+    "Maintainer": "Customer",
+    "Description": "Demo training package\nhttps://github.com/Academy-Creatio/Deloitte.git",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}
